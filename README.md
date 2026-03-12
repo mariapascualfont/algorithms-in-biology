@@ -21,4 +21,8 @@ Convert alignment
 ## Practical 3:   
   
   - Needleman - Wunsch algorithm (nw.py)
-  - Smith - Waterman algorithm
+  - Smith - Waterman algorithm (sw.py)
+
+## Practical 3:   
+  
+  - blast (containing build_index, find_seeds, extend_seeds, merge_overlapping)
